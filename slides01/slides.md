@@ -37,7 +37,7 @@ Nuestro objetivo es, primero, aprender a **utilizar** estos métodos de aproxima
 
 ---
 
-## ¿Qué espera el curso de ustedes?
+### ¿Qué espera el curso de ustedes?
 
 1. Cálculo diferencial e integral (en una variable).
 2. Álgebra lineal.
@@ -48,7 +48,7 @@ Dos grandes predictores del éxito en la educación superior: una actitud flexib
 
 ---
 
-## ¿Qué pueden esperar del curso?
+### ¿Qué pueden esperar del curso?
 
 Al terminar el curso, deberían ser capaces (si aprobaron) de
 
@@ -60,7 +60,7 @@ Al terminar el curso, deberían ser capaces (si aprobaron) de
 ---
 
 
-## Evaluación
+### Evaluación
 
 
 Este es un punto que debemos acordar entre todos. Hay dos tipos de productos que son importantes en un curso de esta naturaleza:
@@ -79,7 +79,7 @@ En el pasado, me he percatado de que a tantos alumnos les estresa prescindir de 
 ---
 
 
-## Integridad académica
+### Integridad académica
 
 Las reglas que rigen nuestra conducta e interacciones están codificadas en el [Código de ética e integridad académica](https://www.uaeh.edu.mx/defensor_univ/doc/2020/codigo-de-etica-e-integridad-academica-del-personal-y-el-alumnado.pdf). De particular interés:
 
