@@ -16,3 +16,4 @@ Por acuerdo con los estudiantes, la evaluación contemplará  los siguientes rub
 1. Proyecto individual (70%)
 2. Tareas (30%)
 
+Vamos a empezar discutiendo los errores en el cálculo numérico. 
